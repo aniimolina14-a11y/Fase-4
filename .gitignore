@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+client_respaldo.py
+software_fj.log
